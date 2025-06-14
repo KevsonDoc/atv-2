@@ -86,7 +86,8 @@ footer .container {
 footer .container nav {
   display: flex;
   flex-direction: column;
-  flex: 1 1 150px; margin-bottom: 1rem
+  flex: 1 1 150px;
+  margin-bottom: 1rem
 }
 
 footer .container .container-title {
@@ -106,6 +107,7 @@ footer div .made-by h5 {
 footer div .made-by p {
   font-size: 13px;
   font-weight: 400;
+  margin: 0;
 }
 
 footer .copyright {
